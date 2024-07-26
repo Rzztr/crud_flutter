@@ -1,3 +1,4 @@
 {
-    "cmake.configureOnOpen": true
+    "cmake.configureOnOpen": true,
+    "cmake.sourceDirectory": "C:/Users/ricar/Desktop/UTA_5/flutter/app4/cv/tpresen/crudusrs/windows/runner"
 }
